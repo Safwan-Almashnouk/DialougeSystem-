@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: f7159fcb5af58614198b2a9e7c353d3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1023
+        width: 587
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a70ded000610f4c9bdddf2e3ff5f43
+      internalID: -589359059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 768
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db5bdcd640ff54d8ec5d5e264c11b1
+      internalID: 2052261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 768
+        width: 220
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b004d570e8fe2643ac051111cc8c5b4
+      internalID: 1143054173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 768
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081137d3b8c03045b0bec47df2731f2
+      internalID: -389060897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 768
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29af4287e7a4546bf382d3ac7823a0
+      internalID: -1462364283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 512
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc644871b7f2e4f92e89269e7d1a5e
+      internalID: 1358374362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 512
+        width: 220
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7751ef4fb9f8c6449f59aa2a3b5275f
+      internalID: -2000259737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 512
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4e565d51afb248a674e56a50c8572
+      internalID: -419942815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 512
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc1249026fe414db4ba7658b0baf8b
+      internalID: -1900596507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 256
+        width: 220
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f13382f5806be4086222f633ffc2b8
+      internalID: 239931212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 254
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b57d835e4b1b4d9b0878f54e0a33f
+      internalID: 2068209366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 254
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b665c73ac9f74f45a7a583e5c2c2760
+      internalID: 1198286162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 256
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36578ff7bc2b5f145bb39af46031b98e
+      internalID: 297022419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7086f02deba399242b241fb410cd71c2
+      internalID: 1049057142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_0: -589359059
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_1: 2052261132
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_10: 2068209366
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_11: 1198286162
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_12: 297022419
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_13: 1049057142
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_2: 1143054173
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_3: -389060897
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_4: -1462364283
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_5: 1358374362
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_6: -2000259737
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_7: -419942815
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_8: -1900596507
+      4-caster-samurai-remnant-collab-caster-expression-sheets-v0-5265sqwm6zcc1_9: 239931212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
